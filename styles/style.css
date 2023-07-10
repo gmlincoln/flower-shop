@@ -173,7 +173,15 @@ body {
   width: 250px;
   height: 300px;
 }
-
+/* Customer Review Style */
+.customer-section {
+  background: rgba(229, 84, 115, 0.1);
+  text-align: center;
+  padding: 200px;
+}
+.customer-content hr {
+  width: 100px;
+}
 /* Subscription Section Style*/
 .subscription-section {
   padding: 0 140px;
@@ -183,9 +191,10 @@ body {
   background-image: url("../Asset/Rectangle\ 9.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
   padding: 121px 280px;
   border-radius: 5px;
+  height: 210px;
 }
 .subs-content {
   text-align: center;
