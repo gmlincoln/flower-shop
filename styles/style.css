@@ -177,11 +177,34 @@ body {
 .customer-section {
   background: rgba(229, 84, 115, 0.1);
   text-align: center;
-  padding: 200px;
+  padding: 150px;
 }
-.customer-content hr {
-  width: 100px;
+.customer-content {
+  margin: 0 auto;
+  width: 700px;
 }
+.customer-title {
+  margin-bottom: 70px;
+}
+.fa-quote-left {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 100px;
+}
+.customer-quote {
+  color: rgba(39, 39, 39, 0.6);
+  margin-bottom: 25px;
+}
+.customer-img {
+  margin-bottom: 15px;
+}
+.customer-name {
+  color: #272727;
+  font-weight: 800;
+}
+.customer-designation {
+  color: rgba(39, 39, 39, 0.6);
+}
+
 /* Subscription Section Style*/
 .subscription-section {
   padding: 0 140px;
