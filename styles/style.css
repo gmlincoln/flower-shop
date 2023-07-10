@@ -44,7 +44,7 @@ body {
 }
 .banner-container {
   display: flex;
-  gap: 80px;
+  gap: 50px;
   height: 100vh;
   align-items: center;
 }
@@ -61,6 +61,7 @@ body {
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
   margin-bottom: 30px;
+  width: 560px;
 }
 .banner-img {
   margin-right: 180px;
@@ -187,7 +188,7 @@ body {
   margin-bottom: 70px;
 }
 .fa-quote-left {
-  color: rgba(39, 39, 39, 0.6);
+  color: #e55473;
   font-size: 100px;
 }
 .customer-quote {
@@ -246,6 +247,10 @@ body {
 .footer-container {
   text-align: center;
   padding: 130px 0;
+}
+.footer-content {
+  width: 700px;
+  margin: 0 auto;
 }
 .footer-title {
   font-size: 48px;
