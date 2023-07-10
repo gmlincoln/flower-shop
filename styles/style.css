@@ -209,7 +209,7 @@ body {
 /* Subscription Section Style*/
 .subscription-section {
   padding: 0 140px;
-  margin-bottom: 130px;
+  margin: 80px 0;
 }
 .subs-container {
   background-image: url("../Asset/Rectangle\ 9.png");
